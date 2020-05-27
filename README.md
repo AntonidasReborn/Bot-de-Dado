@@ -15,6 +15,8 @@ Ele responde ao seguinte comando '[quantidade de dados que queira jogar]d[quanti
 (a quantidade de dados variam entre 1 a 4, e a quantidade de lados varia entre 4,6,8,10,12,20).
 
 Exemplos:
-1d20\n
-4d8\n
-3d12\n
+1d20,
+4d8,
+3d12.
+
+Caso esteja em um canal de voz o Bot emitirá um som de dado rolando.
