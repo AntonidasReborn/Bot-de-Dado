@@ -11,7 +11,7 @@ Cabe a você adicionar o bot ao seu servidor, você deve entra neste site (https
 No terminal, entre no repositorio e use o comando 'node index.js'.
 
 # Como usar o Bot
-Ele responde ao seguinte comando '[quantidade de dados que queira jogar]d[quantidade de lados do dado]
+Ele responde ao seguinte comando '[quantidade de dados que queira jogar]d[quantidade de lados do dado]'
 (a quantidade de dados variam entre 1 a 4, e a quantidade de lados varia entre 4,6,8,10,12,20).
 
 Exemplos:
