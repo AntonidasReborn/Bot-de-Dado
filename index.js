@@ -1,8 +1,8 @@
 const Discord = require('discord.js');
 const bot = new Discord.Client();
 
-//APAGUE O AS BARRAS DUPLAS ABAIXO PARA O BOT FUNCIONAR NORMALMENTE (isso é necessario para publicar o Token no codigo do Github).
-const token =//'NjkyNzk1MTI5NDI1Mjk3NDA4.Xs6M-Q.Uy3h8pDI6vl-2M_gISsbQgAeksY';
+
+const token = 'ilustração do token'; //O discord não permite a divulgação dele.
 var dado,freq=0,i=0;
 
 bot.login(token)
